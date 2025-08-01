@@ -21,17 +21,17 @@
         },
         "documents": [
             {
-                "fsPath": "/workspaces/dsa-py-cp-starter-template/main.py",
+                "relativePath": "main.py",
                 "column": 1,
                 "pinned": false
             },
             {
-                "fsPath": "/workspaces/dsa-py-cp-starter-template/input.txt",
+                "relativePath": "input.txt",
                 "column": 2,
                 "pinned": false
             },
             {
-                "fsPath": "/workspaces/dsa-py-cp-starter-template/output.txt",
+                "relativePath": "output.txt",
                 "column": 3,
                 "pinned": false
             }
