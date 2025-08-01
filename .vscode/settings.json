@@ -1,0 +1,40 @@
+{
+    "layoutSaver.layout": {
+        "layout": {
+            "orientation": 0,
+            "groups": [
+                {
+                    "size": 740
+                },
+                {
+                    "size": 740,
+                    "groups": [
+                        {
+                            "size": 329
+                        },
+                        {
+                            "size": 330
+                        }
+                    ]
+                }
+            ]
+        },
+        "documents": [
+            {
+                "fsPath": "/workspaces/dsa-py-cp-starter-template/main.py",
+                "column": 1,
+                "pinned": false
+            },
+            {
+                "fsPath": "/workspaces/dsa-py-cp-starter-template/input.txt",
+                "column": 2,
+                "pinned": false
+            },
+            {
+                "fsPath": "/workspaces/dsa-py-cp-starter-template/output.txt",
+                "column": 3,
+                "pinned": false
+            }
+        ]
+    }
+}
